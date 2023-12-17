@@ -129,10 +129,13 @@
   <ItemGroup>
     <ClCompile Include="1.cpp" />
     <ClCompile Include="2D.cpp" />
+    <ClCompile Include="3D.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2D.h" />
+    <ClInclude Include="3D.h" />
     <ClInclude Include="Figures.h" />
+    <ClInclude Include="Keeper.h" />
     <ClInclude Include="Menu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
