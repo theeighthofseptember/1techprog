@@ -135,8 +135,10 @@
     <ClInclude Include="2D.h" />
     <ClInclude Include="3D.h" />
     <ClInclude Include="Figures.h" />
+    <ClInclude Include="Keepeer.h" />
     <ClInclude Include="Keeper.h" />
     <ClInclude Include="Menu.h" />
+    <ClInclude Include="Луузer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
